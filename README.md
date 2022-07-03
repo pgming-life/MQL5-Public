@@ -1,4 +1,4 @@
-# MQL5
+# MQL5 &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pgming-life/mql5/blob/main/LICENSE)
 
 These codes are designed to be incorporated into your project.  
 It consists of the following directory structure.
