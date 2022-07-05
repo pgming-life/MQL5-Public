@@ -1,4 +1,6 @@
-# MQL5 &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pgming-life/mql5/blob/main/LICENSE)
+# MQL5 from [PGming->Ctrl](https://pgming-ctrl.com/)
+
+![pgming-ctrl](https://user-images.githubusercontent.com/84230279/126891296-ea824352-782e-432a-8306-25a596b67853.png)
 
 These codes are designed to be incorporated into your project.  
 It consists of the following directory structure.
